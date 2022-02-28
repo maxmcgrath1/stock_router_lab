@@ -2,7 +2,7 @@ import React from 'react'
 
 const Stock = () => {
     return (
-        <div>ALL Stocks!</div>
+        <div>A Single Stock!</div>
     )
 }
 
